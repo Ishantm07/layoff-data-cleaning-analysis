@@ -25,7 +25,7 @@ This project demonstrates a full workflow for cleaning and analyzing a real-worl
 
 1. Clone this repository:
     ```
-    git clone https://github.com/yourusername/layoff-data-cleaning-analysis.git
+    git clone https://github.com/Ishantm07/layoff-data-cleaning-analysis.git
     ```
 
 2. Import the SQL file (`Data-Cleaning-Project.sql`) into your SQL environment (e.g., MySQL Workbench).
